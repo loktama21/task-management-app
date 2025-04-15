@@ -105,12 +105,6 @@ Authentication handled via JWT tokens in headers.
 
 ---
 
-## 🧪 Testing
-- Unit tests for backend (Pytest)
-- Postman collection included for API testing
-
----
-
 ## 🚀 Deployment
 - Backend: Deploy with Heroku
 - Frontend: Netlify
